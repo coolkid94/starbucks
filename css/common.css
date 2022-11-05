@@ -1,6 +1,7 @@
 /* COMMON */
 
 body {
+  height: 100%;
   color: #333;
   font-size: 16px;
   font-weight: 400;
